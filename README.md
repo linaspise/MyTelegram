@@ -3,7 +3,7 @@
 [![API Layer](https://img.shields.io/badge/API_Layer-224-blueviolet)](https://corefork.telegram.org/methods)
 [![MTProto](https://img.shields.io/badge/MTProto_Protocol-2.0-green)](https://corefork.telegram.org/mtproto/)
 [![MyTelegram Channel](https://img.shields.io/badge/Подпишитесь-_Spicegram_Канал-0908cc)](t.me/spisegram)
-[![MyTelegram Discussion Group](https://img.shields.io/badge/Присоединиться_-Spisecgram_Обсуждение_-0908cc)](https://t.me/+S-aNBoRvCRpPyXrR)
+[![MyTelegram Discussion Group](https://img.shields.io/badge/Присоединиться_-Spisecgram_Обсуждение_-0908cc)](https://t.me/linaspisechat)
 
 Spisegram — это самостоятельная C#-реализация серверного API Telegram, предназначенная для частных развертываний и расширения.
 
